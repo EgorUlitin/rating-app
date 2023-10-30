@@ -1,0 +1,22 @@
+:root {
+	--black: #3B434E;
+	--gray-dark: #787D85;
+	--grey-ligth: #EBEBEB;
+	--white: white;
+	--primary: #7653FC;
+	--primary-hover: #4C2EC2;
+	--orange: #FC836D;
+	--red: #DE0000;
+	--green: #1DC37E;
+	--green-ligth: #C8F8E4;
+	--font-family: 'Noto Sans', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
